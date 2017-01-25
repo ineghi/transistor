@@ -1,6 +1,6 @@
 {
-  "name": "bigboy",
-  "version": "0.5.2",
+  "name": "transistor",
+  "version": "0.0.0",
   "description": "Static generator",
   "main": "index.js",
   "author": "Antoine Ghigny",
