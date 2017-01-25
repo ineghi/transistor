@@ -1,5 +1,5 @@
 # Transistor
-An pragmatic javascript static generator.
+A pragmatic javascript static generator.
 Uses Nunjucks as template engine.
 
 ***Do not use it yet***
