@@ -43,6 +43,8 @@ To tell Transistor a specific locale has to be in the root, you must simply skip
 The input folder of your contents (will be the mirror of the Model)
 - `templates` (string, default: 'pages')    
 The input folder of your templates
+- `output` (string, default: 'site')    
+The folder where the result will be rendered
 - `debug` (boolean, default: false)   
 Allow to display in the console the resulting model
 
