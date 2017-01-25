@@ -4,7 +4,7 @@
   "description": "Static generator",
   "main": "index.js",
   "author": "Antoine Ghigny",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.16.6",
     "mkdirp": "^0.5.1",
