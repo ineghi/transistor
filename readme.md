@@ -6,9 +6,9 @@ Uses Nunjucks as template engine.
 
 `$ npm i transistor --save-dev`
 
-## Configuration
+## Usage
 
-Has to be passed as an object when instenciate the generator.
+You must create a javascript file, import Transistor and instenciate it with a config object as parameter.
 ```
 const Transistor = require('transistor');
 
@@ -26,6 +26,8 @@ new Transistor({
     ]
 });
 ```
+
+### Config object properties
 
 - `routes` (mandatory)   
 Will specify wich files to render.   
