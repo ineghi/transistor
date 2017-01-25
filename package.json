@@ -1,0 +1,16 @@
+{
+  "name": "bigboy",
+  "version": "0.5.1",
+  "description": "Static generator",
+  "main": "index.js",
+  "author": "Antoine Ghigny",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lodash": "^4.16.6",
+    "nunjucks": "^3.0.0",
+    "showdown": "^1.4.4"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
