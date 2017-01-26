@@ -2,7 +2,7 @@
 A pragmatic javascript static generator.
 Uses Nunjucks as template engine.
 
-***Do not use it yet***
+***Transitor is very young and may change frequently***
 
 `$ npm i transistor --save-dev`
 
