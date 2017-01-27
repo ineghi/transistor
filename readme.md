@@ -27,15 +27,15 @@ new Transistor({
 });
 ```
 
-You can see a (not) real life exemple [here](https://github.com/ineghi/transistor-exemple).
+**You can see a (not) real life exemple [here](https://github.com/ineghi/transistor-exemple).**
 
 ### Config object properties
 
 - `routes` (array of objects, mandatory)   
 Will specify wich files to render.   
-Needs a path where to generate the file(s) and a template as skeleton.
-model specify from wich part of the model the file(s) will be generated. 
-Is optionnal, but needed when you want to generate a bunch a file from a model list (typically, blogposts).
+Needs a path where to generate the file(s) and a template as skeleton.   
+Model specify from wich part of the model the file(s) will be generated. 
+Model is optionnal but needed when you want to generate a bunch a file from a model list (typically, blogposts).
 - `locales` (array of objects)
 You can define here your locales with the name you want inside the path you want.
 To tell Transistor a specific locale has to be in the root, you must simply skip the path parameter.
